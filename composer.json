@@ -1,0 +1,11 @@
+{
+    "name": "laraboon/asset",
+    "description": "Laravel Asset Manager",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laraboon\\Asset\\": "src/"
+        }
+    }
+}
